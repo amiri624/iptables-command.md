@@ -71,6 +71,3 @@ Sudo systemctl enable iptables
 ```bash
 sudo iptables -L
 ```
-
-~
-
